@@ -4,10 +4,10 @@
 
 ### Starting the Server with Chromedriver
 
-#### Terminal 1
+### Terminal 1
 
 ```` chromedriver --port=4444 ````
-------
+--
 #### Terminal 2
 
 ````.\vendor\bin\phpunit .\tests\iframeTest.php ````
