@@ -12,7 +12,7 @@
 
 ````.\vendor\bin\phpunit .\tests\iframeTest.php ````
 
-- Function : ***testPostBlockComment***
+- Function : ***testiframeTitre***
 ---
 
 | url                             | function                | commande                                               | response                               |
