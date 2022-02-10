@@ -1,7 +1,10 @@
-## Start Server
+### Start Server
 
 ````N.B : Use Chrome as your navigator.````  
----
+
+### Starting the Server with Chromedriver
+
+````chromedriver --port=4444````
 <font color='green'>File</font> : BlockTest
 ---
 - Function : ***testPostBlockComment***
